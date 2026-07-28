@@ -1,0 +1,4571 @@
+{
+  "dataVersion": "Version 8.0 — Data-Driven Item Database",
+  "sourceName": "Companion item database",
+  "updatedDate": "July 28, 2026",
+  "classes": [
+    "Barbarian",
+    "Druid",
+    "Necromancer",
+    "Paladin",
+    "Rogue",
+    "Sorcerer",
+    "Spiritborn",
+    "Warlock"
+  ],
+  "bosses": [
+    {
+      "name": "Belial",
+      "location": "Palace of the Deceiver",
+      "region": "Kehjistan",
+      "difficulty": "Torment I and above",
+      "summoningMaterials": "Betrayer's Husk",
+      "portraitFile": "belial.png"
+    },
+    {
+      "name": "Astaroth",
+      "location": "Escalation Nightmare Dungeon — Final Boss",
+      "region": "Nightmare Escalation",
+      "difficulty": "Escalation Dungeon",
+      "summoningMaterials": "Escalation Sigil",
+      "portraitFile": "astaroth.png"
+    },
+    {
+      "name": "Bartuc",
+      "location": "Infernal Hordes — Final Boss",
+      "region": "Infernal Hordes",
+      "difficulty": "Torment I and above",
+      "summoningMaterials": "Infernal Compass",
+      "portraitFile": "bartuc.png"
+    },
+    {
+      "name": "The Butcher",
+      "location": "The Broiler",
+      "region": "Gea Kul",
+      "difficulty": "Torment I and above",
+      "summoningMaterials": "Fresh Meat offerings",
+      "portraitFile": "the-butcher.png"
+    },
+    {
+      "name": "Varshan",
+      "location": "Malignant Burrow",
+      "region": "Hawezar",
+      "difficulty": "Torment I and above",
+      "summoningMaterials": "Lair Key",
+      "portraitFile": "varshan.png"
+    },
+    {
+      "name": "Grigoire",
+      "location": "Hall of the Penitent",
+      "region": "Dry Steppes",
+      "difficulty": "Torment I and above",
+      "summoningMaterials": "Lair Key",
+      "portraitFile": "grigoire.png"
+    },
+    {
+      "name": "Lord Zir",
+      "location": "The Darkened Way",
+      "region": "Fractured Peaks",
+      "difficulty": "Torment I and above",
+      "summoningMaterials": "Lair Key",
+      "portraitFile": "lord-zir.png"
+    },
+    {
+      "name": "The Beast in the Ice",
+      "location": "Glacial Fissure",
+      "region": "Fractured Peaks",
+      "difficulty": "Torment I and above",
+      "summoningMaterials": "Lair Key",
+      "portraitFile": "beast-in-the-ice.png"
+    },
+    {
+      "name": "Urivar",
+      "location": "Fields of Judgement",
+      "region": "Nahantu",
+      "difficulty": "Vessel of Hatred",
+      "summoningMaterials": "Lair Key",
+      "portraitFile": "urivar.png"
+    },
+    {
+      "name": "Duriel",
+      "location": "Gaping Crevasse",
+      "region": "Kehjistan",
+      "difficulty": "Torment I and above",
+      "summoningMaterials": "Greater Lair Key",
+      "portraitFile": "duriel.png"
+    },
+    {
+      "name": "Andariel",
+      "location": "Hanged Man's Hall",
+      "region": "Kehjistan",
+      "difficulty": "Torment I and above",
+      "summoningMaterials": "Greater Lair Key",
+      "portraitFile": "andariel.png"
+    },
+    {
+      "name": "Harbinger of Hatred",
+      "location": "Harbinger's Den",
+      "region": "Nahantu",
+      "difficulty": "Vessel of Hatred",
+      "summoningMaterials": "Greater Lair Key",
+      "portraitFile": "harbinger-of-hatred.png"
+    }
+  ],
+  "items": [
+    {
+      "boss": "Duriel",
+      "itemName": "100,000 Steps",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Ancients' Oath",
+      "slot": "2H Axe",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Arreat's Bearing",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Bane of Ahjad-Den",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Battle Trance",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Chainscourged Mail",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Dark Stalker's Medallion",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Emblem of Staalbreak",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Fields of Crimson",
+      "slot": "2H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "Gohr's Devastating Grips",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Hellhammer",
+      "slot": "2H Mace",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Hooves of the Mountain God",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Mantle of Mountain's Fury",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "Might of Qual-Kehk",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Nomad's Longing Heart",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Overkill",
+      "slot": "2H Mace",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Rage of Harrogath",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Ramaladni's Magnum Opus",
+      "slot": "1H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Ring of Red Furor",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Ring of the Ravenous",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Sabre of Tsasgal",
+      "slot": "1H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "The Open Eye of Gorgorra",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "The Relentless Heart",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "The Third Blade",
+      "slot": "1H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Tuskhelm of Joritz the Mighty",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Twin Strikes",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Ugly Bastard Helm",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Unbroken Chain",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Accord of the Wilds",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Autumnal Crown",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Airidah's Inexorable Will",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Dark Howl",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Dirge of Airidah",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Dolmen Stone",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Earthbreaker",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Fleshrender",
+      "slot": "1H Mace",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Fractured Runestone",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Fury of the Wilds",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Gathlen's Birthright",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Greatstaff of the Crone",
+      "slot": "Staff",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Greenwalker's Oath",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Greenwalker's Signet",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Heart of Azgar",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "Hunter's Zenith",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Ifeh's Dire Totem",
+      "slot": "Totem",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Insatiable Fury",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Khamsin Steppewalkers",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Kilt of Blackwing",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Mad Wolf's Glee",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Malefic Crescent",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Mark of the Old Wolf",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Might of the Ursine",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Mjölnic Ryng",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Purified Lightbringer",
+      "slot": "2H Mace",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Stone of Vehemen",
+      "slot": "Totem",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Storm's Companion",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "The Basilisk",
+      "slot": "Staff",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Unsung Ascetic's Wraps",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Waxing Gibbous",
+      "slot": "1H Axe",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Wildheart Hunger",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "Will of Stone",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Blood Artisan's Cuirass",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Blood Moon Breeches",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Blood Wake",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Bloodless Scream",
+      "slot": "2H Scythe",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Cruor's Embrace",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "Deathgrip",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Deathless Visage",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Deathspeaker's Pendant",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Ebonpiercer",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Gospel of the Devotee",
+      "slot": "Focus",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Gravewalker's Hand",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Hangman's Hand",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Howl from Below",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Kessime's Legacy",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Lidless Wall",
+      "slot": "Shield",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Mace of King Leoric",
+      "slot": "1H Mace",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Mutilator Plate",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Omen of Pain",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Pact of Bone",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Path of Trag'Oul",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Red Blessing",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Ring of the Sacrilegious Soul",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Sanguivor, Blade of Zir",
+      "slot": "2H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "The Gloom Ward",
+      "slot": "Shield",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "The Hand of Naz",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "The Mortacrux",
+      "slot": "Dagger",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "The Undercrown",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "The Unmaker",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Vengeful Sinew",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Will of Rathma",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Arcadia",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Argent Veil",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "Bastion of Sir Matthias",
+      "slot": "Shield",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Cathedral's Song",
+      "slot": "Shield",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Dawnfire",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Gate of the Red Dawn",
+      "slot": "Shield",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Griswold's Opus",
+      "slot": "1H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Herald of Zakarum",
+      "slot": "Shield",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Herald's Morningstar",
+      "slot": "1H Mace",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Judgment of Auriel",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Judicant's Glaivehelm",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Light's Rebuke",
+      "slot": "Flail",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Mantle of the Grey",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "March of the Stalwart Soul",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Red Sermon",
+      "slot": "2H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Sanctis of Kethamar",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Seal of the Second Trumpet",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "Sunbrand",
+      "slot": "Flail",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Sundered Night",
+      "slot": "2H Axe",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Supplication",
+      "slot": "1H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Ward of the White Dove",
+      "slot": "Shield",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Wreath of Auric Laurel",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Asheara's Khanjar",
+      "slot": "Dagger",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Assassin's Stride",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Bands of Ichorous Rose",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Beastfall Boots",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Cassia's Grace",
+      "slot": "Bow",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Condemnation",
+      "slot": "Dagger",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Cowl of the Nameless",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Death's Pavane",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Deathmask of Nirmitruq",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "Desperate March",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Eaglehorn",
+      "slot": "Bow",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Etna's Lost Dagger",
+      "slot": "Dagger",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Eyes in the Dark",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Fist of the Iron Rose",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Gladiator's Triumph",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Grasp of Shadow",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Misericorde",
+      "slot": "1H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Orphan Maker",
+      "slot": "Crossbow",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Pitfighter's Gull",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Saboteur's Signet",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Scoundrel's Kiss",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Scoundrel's Leathers",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Sea Lord's Fine Gloves",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Shroud of Khanduras",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Shrouded Gift",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Skyhunter",
+      "slot": "Bow",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "The Maestro",
+      "slot": "Dagger",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "The Umbracrux",
+      "slot": "Dagger",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Windforce",
+      "slot": "Bow",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Word of Hakan",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Writhing Band of Trickery",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Axial Conduit",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Blue Rose",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Drognan's Anguish",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Emberfury",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Esadora's Overflowing Cameo",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Esu's Heirloom",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Fang of the Vipermagi",
+      "slot": "Dagger",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Flamescar",
+      "slot": "Wand",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Flameweaver",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Fractured Winterglass",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Galvanic Azurite",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Gift of Frost",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Hail of Verglas",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Iceheart Brais",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Levin Grasp",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Molten Band",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Onyx Soul",
+      "slot": "Focus",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Ophidian Iris",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Orsivane",
+      "slot": "1H Mace",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Raiment of the Infinite",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Raiment of the Sea",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Rimeblood",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Shanar's Resonance",
+      "slot": "Focus",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Sidhe Bindings",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Staff of Endless Rage",
+      "slot": "Staff",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Staff of Lam Esen",
+      "slot": "Staff",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Staff of Zerae",
+      "slot": "Staff",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Starfall Coronet",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "Strike of Stormhorn",
+      "slot": "Focus",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Tal Rasha's Iridescent Loop",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "The Oculus",
+      "slot": "Wand",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "Vision of the Firestorm",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Vox Omnium",
+      "slot": "Staff",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Balazan's Maxtlatl",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Band of First Breath",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Craze of the Dead God",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Echo of Kwatli",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Harmony of Ebewaka",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Hesha e Kesungi",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Jacinth Shell",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Loyalty's Mantle",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Path of the Emissary",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "Peacemonger's Signet",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Protean Heart",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Protection of the Prime",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Ring of the Midday Hunt",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Ring of the Midnight Sun",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Ring of Writhing Moon",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Rod of Kepeleke",
+      "slot": "Quarterstaff",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Scorn of the Earth",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Sepazontec",
+      "slot": "Quarterstaff",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Sunbird's Gorget",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "Sunstained War-Crozier",
+      "slot": "Quarterstaff",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Wound Drinker",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Widow's Web",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Wushe Nak Pa",
+      "slot": "Glaive",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Ae'grom's Schism",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Anathema of the Primes",
+      "slot": "2H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Bindings of Attrition",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Bridle of Tor'Baalos",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "Cage of Madness",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Cowl of Malefic Torment",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Dirge of Odium",
+      "slot": "2H Axe",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Elegy",
+      "slot": "1H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Eye of Baal",
+      "slot": "Focus",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Lord Zir",
+      "itemName": "Fleshwrit Carapace",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Lord Zir"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Footfalls of the Waning World",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Gauntlets of Sheol",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Hand of Apotheosis",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "Hands of the Worldbreaker",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Hecaton Chasm",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Hellbrand Signet",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Hellhound's Sabatons",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "Infernal Homunculus",
+      "slot": "Focus",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Kabraxis' Will",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Litany of Sable",
+      "slot": "Dagger",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Astaroth"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Lurid Pact",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Moloch's Beating Flame",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "Morlu Fleshward",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Nails of the Gore-Crowned",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Butcher"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Night Terror",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Rictus of Terror",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Sashes of the Wretched",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Seal of the Ophanim",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "Seed of Horazon",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Grigoire",
+      "itemName": "Sire of Sin",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Grigoire"
+    },
+    {
+      "boss": "Andariel",
+      "itemName": "Scepter of the Three",
+      "slot": "2H Mace",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Andariel"
+    },
+    {
+      "boss": "Duriel",
+      "itemName": "Scourge of Duriel",
+      "slot": "Flail",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Duriel"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "Spine of Tathamet",
+      "slot": "1H Mace",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Urivar",
+      "itemName": "The Blade of Sight Aflame",
+      "slot": "1H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Urivar"
+    },
+    {
+      "boss": "The Beast in the Ice",
+      "itemName": "The Eightfold Idol",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "The Beast in the Ice"
+    },
+    {
+      "boss": "Harbinger of Hatred",
+      "itemName": "The Fecund Seal",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Harbinger of Hatred"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "The Hemat Stone",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Bartuc"
+    },
+    {
+      "boss": "Varshan",
+      "itemName": "Thrice-Woven Nightmare",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Boss-Specific Unique",
+      "source": "Varshan"
+    },
+    {
+      "boss": "Any Ladder Boss",
+      "itemName": "Ahavarion, Spear of Lycander",
+      "slot": "Staff",
+      "itemType": "Mythic",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Universal Mythic",
+      "source": "Any Ladder Boss"
+    },
+    {
+      "boss": "Any Ladder Boss",
+      "itemName": "Andariel's Visage",
+      "slot": "Helm",
+      "itemType": "Mythic",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Universal Mythic",
+      "source": "Any Ladder Boss"
+    },
+    {
+      "boss": "Any Ladder Boss",
+      "itemName": "Doombringer",
+      "slot": "1H Sword",
+      "itemType": "Mythic",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Universal Mythic",
+      "source": "Any Ladder Boss"
+    },
+    {
+      "boss": "Any Ladder Boss",
+      "itemName": "El'Druin, Sword of Justice",
+      "slot": "1H Sword",
+      "itemType": "Mythic",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Universal Mythic",
+      "source": "Any Ladder Boss"
+    },
+    {
+      "boss": "Any Ladder Boss",
+      "itemName": "Harlequin Crest",
+      "slot": "Helm",
+      "itemType": "Mythic",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Universal Mythic",
+      "source": "Any Ladder Boss"
+    },
+    {
+      "boss": "Any Ladder Boss",
+      "itemName": "Heir of Perdition",
+      "slot": "Helm",
+      "itemType": "Mythic",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Universal Mythic",
+      "source": "Any Ladder Boss"
+    },
+    {
+      "boss": "Any Ladder Boss",
+      "itemName": "Melted Heart of Selig",
+      "slot": "Amulet",
+      "itemType": "Mythic",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Universal Mythic",
+      "source": "Any Ladder Boss"
+    },
+    {
+      "boss": "Any Ladder Boss",
+      "itemName": "Ring of Starless Skies",
+      "slot": "Ring",
+      "itemType": "Mythic",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Universal Mythic",
+      "source": "Any Ladder Boss"
+    },
+    {
+      "boss": "Any Ladder Boss",
+      "itemName": "Shattered Vow",
+      "slot": "Polearm",
+      "itemType": "Mythic",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Universal Mythic",
+      "source": "Any Ladder Boss"
+    },
+    {
+      "boss": "Any Ladder Boss",
+      "itemName": "Shroud of False Death",
+      "slot": "Chest",
+      "itemType": "Mythic",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Universal Mythic",
+      "source": "Any Ladder Boss"
+    },
+    {
+      "boss": "Any Ladder Boss",
+      "itemName": "The Grandfather",
+      "slot": "2H Sword",
+      "itemType": "Mythic",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Universal Mythic",
+      "source": "Any Ladder Boss"
+    },
+    {
+      "boss": "Any Ladder Boss",
+      "itemName": "Tyrael's Might",
+      "slot": "Chest",
+      "itemType": "Mythic",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Universal Mythic",
+      "source": "Any Ladder Boss"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Azurewrath",
+      "slot": "1H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Banished Lord's Talisman",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Blood-Mad Idol",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Crown of Lucion",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Endurant Faith",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Fists of Fate",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Flickerstep",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Frostburn",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Godslayer Crown",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Locran's Talisman",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Mother's Embrace",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Paingorger's Gauntlets",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Penitent Greaves",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Rakanoth's Wake",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Razorplate",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Rustbitten Dirk",
+      "slot": "Dagger",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Shard of Verathiel",
+      "slot": "1H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Signet of Pelghain",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Soulbrand",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Tassets of the Dawning Sky",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Temerity",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "The Butcher's Cleaver",
+      "slot": "1H Axe",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Thousand-Eye Reaver",
+      "slot": "1H Axe",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Tibault's Will",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Wendigo Brand",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Wyrdskin",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "X'Fal's Corroded Signet",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "General Unique Pool",
+      "itemName": "Yen's Blessing",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian",
+        "Druid",
+        "Necromancer",
+        "Paladin",
+        "Rogue",
+        "Sorcerer",
+        "Spiritborn",
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "General Unique Pool",
+      "source": "General World Drop"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Arreat's Bearing",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Battle Trance",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Chainscourged Mail",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Hooves of the Mountain God",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Rage of Harrogath",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Ramaladni's Magnum Opus",
+      "slot": "1H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Ring of Red Furor",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "The Open Eye of Gorgorra",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "The Third Blade",
+      "slot": "1H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Tuskhelm of Joritz the Mighty",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Barbarian"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Dirge of Airidah",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Earthbreaker",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Fury of the Wilds",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Heart of Azgar",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Khamsin Steppewalkers",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Mad Wolf's Glee",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Mjölnic Ryng",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Purified Lightbringer",
+      "slot": "2H Mace",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Wildheart Hunger",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Druid"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Blood Moon Breeches",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Bloodless Scream",
+      "slot": "2H Scythe",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Gravewalker's Hand",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Mace of King Leoric",
+      "slot": "1H Mace",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Omen of Pain",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Red Blessing",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Ring of the Sacrilegious Soul",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "The Unmaker",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Vengeful Sinew",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Necromancer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Arcadia",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Griswold's Opus",
+      "slot": "1H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Herald of Zakarum",
+      "slot": "Shield",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "March of the Stalwart Soul",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Red Sermon",
+      "slot": "2H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Sundered Night",
+      "slot": "2H Axe",
+      "itemType": "Unique",
+      "classes": [
+        "Paladin"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Asheara's Khanjar",
+      "slot": "Dagger",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Cowl of the Nameless",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Eyes in the Dark",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Fist of the Iron Rose",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Gladiator's Triumph",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Grasp of Shadow",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Misericorde",
+      "slot": "1H Sword",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Scoundrel's Kiss",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Word of Hakan",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Rogue"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Axial Conduit",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Emberfury",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Esu's Heirloom",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Fractured Winterglass",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Hail of Verglas",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Ophidian Iris",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Raiment of the Infinite",
+      "slot": "Chest",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Shanar's Resonance",
+      "slot": "Focus",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Staff of Zerae",
+      "slot": "Staff",
+      "itemType": "Unique",
+      "classes": [
+        "Sorcerer"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Echo of Kwatli",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Harmony of Ebewaka",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Hesha e Kesungi",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Loyalty's Mantle",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Path of the Emissary",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Ring of the Midnight Sun",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Spiritborn"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Bindings of Attrition",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Eye of Baal",
+      "slot": "Focus",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Footfalls of the Waning World",
+      "slot": "Boots",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Hand of Apotheosis",
+      "slot": "Gloves",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Hecaton Chasm",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Hellbrand Signet",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Astaroth",
+      "itemName": "Litany of Sable",
+      "slot": "Dagger",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Nightmare Escalation — Final Boss"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Lurid Pact",
+      "slot": "Ring",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Moloch's Beating Flame",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "The Butcher",
+      "itemName": "Nails of the Gore-Crowned",
+      "slot": "Helm",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Random Dungeon Encounter"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "Sashes of the Wretched",
+      "slot": "Pants",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    },
+    {
+      "boss": "Bartuc",
+      "itemName": "The Hemat Stone",
+      "slot": "Amulet",
+      "itemType": "Unique",
+      "classes": [
+        "Warlock"
+      ],
+      "requiresExpansion": false,
+      "lootCategory": "Non-Boss Unique",
+      "source": "Infernal Hordes — Final Boss"
+    }
+  ]
+}
